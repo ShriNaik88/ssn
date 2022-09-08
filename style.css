@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navstyling{
+    background-color: #81E1E4;
+    height: 70px;
+    border: #97f153;
+    border-radius: 20px;
+    box-shadow: cornflowerblue;
+}
+
+.HOMESTYLING{
+    background-color: cyan;
+    height: 2px;
+    border: honeydew;
+}
